@@ -40,7 +40,7 @@ The maximum price is easy to set. The user just needs to change the alert-price 
 The program is intended to run periodically for its best performance.
 The first time when the program runs it is doing a list with all the available cars at the moment and it does not notify the user about the cars. 
 
-##The documentation is not complete!
+## The documentation is not complete! - 6 december 2022
 
 
 Whenever the user wants to change the car it is looking for, it needs to empty the cars.list file.
